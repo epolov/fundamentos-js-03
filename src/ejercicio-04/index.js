@@ -2,7 +2,7 @@
 
 // Ejercicio 04 - Encontrar posición de subcadena método indexOf
 
-const cadena = 'Buscar posicion de subcadena'
+const cadena = 'Ejemplo: Buscar posicion de subcadena'
 const posicion = cadena.indexOf('1')
 
 console.log(posicion)
